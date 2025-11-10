@@ -1,7 +1,13 @@
+CARDIOVASCULAR ANALYSIS DASHBOARD 
+
+
 🫀 Cardiovascular Disease Analysis Dashboard – Power BI
 
 This interactive Power BI dashboard provides an in-depth analysis of cardiovascular health data, helping visualize key medical and lifestyle factors that influence the risk of heart disease.
 The dashboard was designed to identify patterns, correlations, and trends across patient demographics, clinical indicators, and behavioral habits — enabling better understanding and decision-making in preventive healthcare.
+
+For more information i created a ML model of CVD (cardiovascular disease) detector 
+link of the model:- https://cardiovascular-six.vercel.app/
 
 
 🎯 Objective
